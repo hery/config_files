@@ -16,4 +16,4 @@ Update files in repo
 * Make `update_files` script executable  
 `$ chmod +x update_files.sh`
 * Update all files  
-`$ ./update_files.sh
+`$ ./update_files.sh`
